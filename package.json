@@ -1,0 +1,15 @@
+{
+  "name": "dabber",
+  "author": "Brightness™",
+  "description": "Dabs on all of quikblend's messages",
+  "main": "node bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
